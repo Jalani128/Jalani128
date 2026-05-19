@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jilani 👋</h1>
+<h1 align="center">Hi there, I'm Jalani 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jalani128&color=green" alt="profile views" />
