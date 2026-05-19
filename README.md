@@ -1,68 +1,72 @@
-# Hi there, I'm Jilani 👋
+<h1 align="center">Hi there, I'm Jilani 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jalani128&color=green" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jalani128">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+MERN+Developer;Blockchain+%26+Web3+Enthusiast;JavaScript+Expert;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on exciting web projects
-- 🌱 I'm learning **Blockchain**, **Web3**, and **Smart Contracts**
-- 💬 Ask me about **JavaScript**, **MERN Stack** & **Web Development**
-- 📫 Reach me at: **github.com/Jalani128**
-
----
-
-## 🛠️ Skills & Technologies
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⛓️ Blockchain & Web3
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+- 🔭 Currently working on **MERN Stack & Blockchain Projects**
+- 🌱 Learning **Web3**, **Smart Contracts** & **Solidity**
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, **MongoDB**
+- ⚡ Fun fact: I love building things from scratch!
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jalani128's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jalani128&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalani128&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jalani128&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+| ![Jalani128's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jalani128&show_icons=true&theme=tokyonight&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Jalani128&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalani128&layout=compact&theme=tokyonight&hide_border=true) | |
 
 ---
 
-⭐️ From [Jalani128](https://github.com/Jalani128)
+## 📈 Activity Graph
+
+[![Jalani128's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jalani128&bg_color=1a1b27&color=36bcf7&line=628fdb&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## ⚡ Technologies I Use
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/><br>JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/><br>React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/><br>Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60"/><br>MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60"/><br>Express.js |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/><br>HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/><br>CSS3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/><br>Bootstrap | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/><br>Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/><br>Docker |
+
+---
+
+## 🔧 Tools & Platforms
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/><br>GitHub | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60"/><br>VS Code | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" height="60"/><br>Postman | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60" height="60"/><br>NPM | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/><br>Linux |
+|---|---|---|---|---|
+
+---
+
+## ⛓️ Blockchain & Web3
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="60" height="60"/><br>Solidity | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="60" height="60"/><br>Ethereum | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" width="60" height="60"/><br>Web3.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="60" height="60"/><br>Hardhat |
+|---|---|---|---|
+
+---
+
+### ⭐️ Important Repository
+
+💾 coin-bounce Full Stack Project - [🔗](https://github.com/Jalani128/coin-bounce)
+
+---
+
+***Thanks for visiting my profile! ⭐️***
+
+<p align="center">
+  <a href="https://github.com/Jalani128">
+    <img src="https://img.shields.io/github/followers/Jalani128?label=Follow&style=social" />
+  </a>
+</p>
