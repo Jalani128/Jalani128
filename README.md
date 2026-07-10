@@ -8,19 +8,20 @@
   <a href="https://github.com/Jalani128">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+MERN+Developer;Blockchain+%26+Web3+Enthusiast;JavaScript+Expert;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
-</p
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ghulam-jalani/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/Ghulamj00934462" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="45" />
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:jilanighulam128@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://img.shields.io/badge/Gmail-B3261E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/ffffff" height="45" />
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 ---
