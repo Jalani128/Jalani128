@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Jalani</h1>
-<h3 align="center">A passionate Full-Stack Developer building things with code</h3>
+<h1 align="center">Hi there, I'm Jalani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;JavaScript+Enthusiast;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Jalani128&color=green" alt="profile views" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/Jalani128">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+MERN+Developer;Blockchain+%26+Web3+Enthusiast;JavaScript+Expert;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p
+<p align="center">
   <a href="https://www.linkedin.com/in/ghulam-jalani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/Ghulamj00934462" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:jilanighulam128@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -22,70 +26,61 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I'm currently working on **web development projects**
-- 🌱 I'm currently learning **new frameworks & tools**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, Web Development**
-- ⚡ Fun fact: **I love turning ideas into working code**
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+- 🔭 Currently working on **MERN Stack & Blockchain Projects**
+- 🌱 Learning **Web3**, **Smart Contracts** & **Solidity**
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, **MongoDB**
+- ⚡ Fun fact: I love building things from scratch!
 
 ---
 
-### 📌 Top Projects
+## 📊 GitHub Stats
+
+| ![Jalani128's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jalani128&show_icons=true&theme=tokyonight&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Jalani128&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalani128&layout=compact&theme=tokyonight&hide_border=true) | |
+
+---
+
+## 📈 Activity Graph
+
+[![Jalani128's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jalani128&bg_color=1a1b27&color=36bcf7&line=628fdb&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## ⚡ Technologies I Use
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/><br>JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/><br>React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/><br>Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60"/><br>MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60"/><br>Express.js |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/><br>HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/><br>CSS3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/><br>Bootstrap | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/><br>Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/><br>Docker |
+
+---
+
+## 🔧 Tools & Platforms
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/><br>GitHub | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60"/><br>VS Code | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" height="60"/><br>Postman | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60" height="60"/><br>NPM | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/><br>Linux |
+|---|---|---|---|---|
+
+---
+
+## ⛓️ Blockchain & Web3
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="60" height="60"/><br>Solidity | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="60" height="60"/><br>Ethereum | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" width="60" height="60"/><br>Web3.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="60" height="60"/><br>Hardhat |
+|---|---|---|---|
+
+---
+
+### ⭐️ Important Repository
+
+💾 coin-bounce Full Stack Project - [🔗](https://github.com/Jalani128/coin-bounce)
+
+---
+
+***Thanks for visiting my profile! ⭐️***
 
 <p align="center">
-  <a href="https://github.com/Jalani128/lms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jalani128&repo=lms&theme=radical" />
+  <a href="https://github.com/Jalani128">
+    <img src="https://img.shields.io/github/followers/Jalani128?label=Follow&style=social" />
   </a>
-  <a href="https://github.com/Jalani128/coin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jalani128&repo=coin&theme=radical" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jalani128&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalani128&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalani128&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalani128&theme=react-dark" alt="Activity Graph"/>
-</p>
-
----
-
-### 🤝 Support
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jalani128&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
